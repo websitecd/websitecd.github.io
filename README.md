@@ -1,2 +1,4 @@
-# websitecd.github.io
-Website CD Website
+# Website CD
+
+Docs:
+* [Operator](https://websitecd.github.io/operator/)
